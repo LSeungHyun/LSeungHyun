@@ -7,12 +7,12 @@
   <a href="https://solved.ac/yourhandle">
     <img src="https://img.shields.io/badge/solved.ac-S2-blue?style=for-the-badge" />
   </a>
-  <a href="https://yourblog.tistory.com">
-    <img src="https://img.shields.io/badge/TISTORY%20BLOG-000?style=for-the-badge&logo=Tistory&logoColor=white" />
-  </a>
+  <a href="https://www.notion.so/6c7a8ab9b39148f384fe9ced54c86d55">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
 </p>
 
-<p align="center">🌱 Groomthon Training Full-Stack developer 🌱</p>
+<p align="center">🌱 Constantly exploring new ways to improve my skills 🌱</p>
 
 ---
 
