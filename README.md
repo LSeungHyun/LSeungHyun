@@ -1,33 +1,43 @@
-# 👋 Hello, I'm [Your Name]!
-I'm a passionate  **Game Developer**  focused on creating immersive experiences. I primarily use Unity and C#, and I am constantly exploring new ways to improve my skills.
-
----
-
-## 🛠️ Technology Stack
+<h1 align="center">🍒 LSeungHyun's GITHUB 🍒</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-152%20%2F%20918-green?style=for-the-badge" />
+  </a>
+  <a href="https://solved.ac/yourhandle">
+    <img src="https://img.shields.io/badge/solved.ac-S2-blue?style=for-the-badge" />
+  </a>
+  <a href="https://yourblog.tistory.com">
+    <img src="https://img.shields.io/badge/TISTORY%20BLOG-000?style=for-the-badge&logo=Tistory&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">🌱 Groomthon Training Full-Stack developer 🌱</p>
 
 ---
 
-## 🎮 Featured Projects
+### 📊 LSeungHyun's GitHub Stats 📊
 
-### [Project Name 1]
-*Brief description of the project, the technologies used, and any interesting features.*
-
-[GitHub Repository Link](#) | [Demo/Play Link](#)
-
-### [Project Name 2]
-*Brief description of the project, the technologies used, and any interesting features.*
-
-[GitHub Repository Link](#) | [Demo/Play Link](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&count_private=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" width="400px" />
+</p>
 
 ---
 
-## 📫 Connect with Me!
-- [Portfolio Website](#)
-- [LinkedIn](#)
-- [Email](mailto:your.email@example.com)
+### 🎨 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSeungHyun&layout=compact&theme=default&langs_count=6" width="400px"/>
+</p>
+
+---
+
+### 📚 Studying...
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photon-1B72A3?style=for-the-badge&logo=photon&logoColor=white" />
+</p>
