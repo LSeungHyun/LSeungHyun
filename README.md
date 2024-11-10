@@ -1,7 +1,7 @@
 <h1 align="center">🍒 LSeungHyun's GITHUB 🍒</h1>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/LSeungHyun">
     <img src="https://img.shields.io/badge/GitHub-152%20%2F%20918-green?style=for-the-badge" />
   </a>
   <a href="https://solved.ac/yourhandle">
@@ -19,7 +19,7 @@
 ### 📊 LSeungHyun's GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&count_private=true" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LSeungHyun&show_icons=true&theme=default&count_private=true" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" width="400px" />
 </p>
 
