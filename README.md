@@ -4,7 +4,7 @@
   <a href="https://github.com/LSeungHyun">
     <img src="https://img.shields.io/badge/GitHub-152%20%2F%20918-green?style=for-the-badge" />
   </a>
-  <a href="https://solved.ac/yourhandle">
+  <a href="https://solved.ac/steve4309">
     <img src="https://img.shields.io/badge/solved.ac-S2-blue?style=for-the-badge" />
   </a>
   <a href="https://www.notion.so/6c7a8ab9b39148f384fe9ced54c86d55">
