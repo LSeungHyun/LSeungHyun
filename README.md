@@ -7,7 +7,7 @@
   <a href="https://solved.ac/steve4309">
     <img src="https://img.shields.io/badge/solved.ac-S2-blue?style=for-the-badge" />
   </a>
-  <a href="https://www.notion.so/6c7a8ab9b39148f384fe9ced54c86d55">
+  <a href="https://www.notion.so/143ce2a8927c8078b2b6c66fc6038635?pvs=4">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </p>
