@@ -40,4 +40,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Photon-1B72A3?style=for-the-badge&logo=photon&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlasticSCM-5A5A5A?style=for-the-badge&logo=plasticscm&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
 </p>
